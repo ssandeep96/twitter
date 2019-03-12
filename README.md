@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 ![](https://github.com/ssandeep96/twitter/blob/master/twitter_2.gif)
 
 
-#Twitter - Part I
+# Twitter - Part I
 
 Time spent: **4** hours spent in total
 
