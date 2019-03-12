@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/ZT7FATz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/ssandeep96/twitter/blob/master/twitter_2.gif)
 
 
 #Twitter - Part I
